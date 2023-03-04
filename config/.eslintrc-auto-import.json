@@ -1,0 +1,12 @@
+{
+  "globals": {
+    "Engine": true,
+    "FreeCamera": true,
+    "HemisphericLight": true,
+    "MeshBuilder": true,
+    "Scene": true,
+    "Vector2": true,
+    "Vector3": true,
+    "Vector4": true
+  }
+}
