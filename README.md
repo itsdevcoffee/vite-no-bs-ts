@@ -2,6 +2,8 @@
 
 > A basic boilerplate vanilla TS template that has pnpm, prettier, eslint, import support, ts config, and vite auto import (BabylonJS) out of the box.
 
+<img src="./src/assets/images/typescript.svg" alt="Typescript" height="200"/>
+
 ## Requirements
 
 - Node (ideally v16+)
