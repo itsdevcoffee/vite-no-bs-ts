@@ -7,7 +7,7 @@
 - Node (ideally v16+)
 - `pnpm`
 - `eslint` (recommended)
-- `prettier`
+- `prettier` (recommended)
 
 ## Usage
 
